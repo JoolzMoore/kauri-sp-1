@@ -1,0 +1,4 @@
+The command line is the way to reach the processing power within your computer. Using the command line of code, your computer will do precisely what you want. This  power comes with it’s own different language, and the dollar symbol ‘$’ commonly shows the beginning of a command line. It simply means that the rest of the line is a command, rather than a sentence. The command code language is very powerful, and can prove to be a big risk for the uninitiated. You have the capability to instruct the computer to do anything, so if you instruct the computer to erase all your data - it will then proceed to do it. Don’t be tempted to experiment with the commands or run a command just to see what it does! Make sure you research and understand what the command does first, especially if the command involves changing or removing files.
+
+rev =Reverse. It reverses every string given to it!
+factor = Mathematics. This command output all the possible factors of a given number.

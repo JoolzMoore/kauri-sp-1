@@ -1,0 +1,10 @@
+1. Most commands are pretty flexible, and have a lot of hidden talents. If you want to see some general instruction on using a command. It is time to look-up sone manuals, or man pages, as they’re called. Just type ‘man” and the command you’re curious about.
+2. ‘factor’ = for some athematics. This command output all the possible factors of a given number.
+3. the “mkdir -p”command allows you to create all directories up to and including the last one... so that you don't have to make one directory at a time.
+4. the “lpr” command  is used to print files. 
+5. You can specify the printer name by using “-p” options if the printer you want to use is  is different than the default one.
+6. “wget” is for downloading files
+7. “scp” for copying files from server to server 
+8. “ls” lists the contents of a particular directory
+9. “cd” changes to another directory (as in DOS)
+10. For a bit of fun “rev” = Reverse. It reverses every string or command line given to it!
